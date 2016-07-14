@@ -245,6 +245,22 @@
     name: ''
     url: ''
 
+- regex: 'curl/'
+  name: 'curl'
+  category: 'Crawler'
+  url: ''
+  produce:
+          name: ''
+          url: ''
+
+- regex: 'wget/'
+  name: 'wget'
+  category: 'Crawler'
+  url: ''
+  produce:
+          name: ''
+          url: ''
+
 - regex: 'Daum(oa)?[ /][0-9]'
   name: 'Daum'
   category: 'Search bot'
